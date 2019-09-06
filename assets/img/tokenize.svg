@@ -9,20 +9,15 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (unknown)"
    sodipodi:docname="tokenize.svg">
   <defs
-     id="defs2">
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect862"
-       is_visible="true" />
-  </defs>
+     id="defs2" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -30,16 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="371.33653"
-     inkscape:cy="576.30879"
+     inkscape:zoom="1.5379573"
+     inkscape:cx="136.55343"
+     inkscape:cy="-39.235691"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
+     units="px"
      inkscape:window-width="1366"
-     inkscape:window-height="768"
+     inkscape:window-height="680"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata5">
@@ -56,41 +52,92 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <text
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <flowRoot
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.90088081px;line-height:1.25;font-family:'padmaa-Bold.1.1';-inkscape-font-specification:'padmaa-Bold.1.1';letter-spacing:0.4961482px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50627363"
-       x="60.492363"
-       y="150.7663"
-       id="text825"><tspan
-         sodipodi:role="line"
-         id="tspan823"
-         x="60.492363"
-         y="150.7663"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'padmaa-Bold.1.1';-inkscape-font-specification:'padmaa-Bold.1.1';stroke-width:0.50627363"><tspan
-   style="fill:#000080"
-   id="tspan827">Toke</tspan>nized</tspan></text>
-    <text
+       id="flowRoot827"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0.98000002px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion829"><rect
+           id="rect831"
+           width="35.894917"
+           height="50.157799"
+           x="418.61557"
+           y="539.16785" /></flowRegion><flowPara
+         id="flowPara833"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot835"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0.98000002px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion837"><rect
+           id="rect839"
+           width="48.018368"
+           height="41.837784"
+           x="410.29556"
+           y="553.66846" /></flowRegion><flowPara
+         id="flowPara841"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot845"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0.98000002px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion847"><rect
+           id="rect849"
+           width="19.968033"
+           height="56.338379"
+           x="436.20645"
+           y="553.66846" /></flowRegion><flowPara
+         id="flowPara851"></flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot853"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.33333206px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0.98000002px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion855"
+         style="fill:#00ff00"><rect
+           id="rect857"
+           width="20.443462"
+           height="38.98521"
+           x="433.11615"
+           y="557.94733"
+           style="fill:#00ff00" /></flowRegion><flowPara
+         id="flowPara859"></flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0.25929168px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="96.767494"
-       y="163.16589"
-       id="text831"><tspan
+       x="91.827202"
+       y="161.77501"
+       id="text867"><tspan
          sodipodi:role="line"
-         id="tspan829"
-         x="96.767494"
-         y="172.34157"
+         id="tspan865"
+         x="91.827202"
+         y="170.95068"
          style="stroke-width:0.26458332" /></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.8777771px;line-height:1.25;font-family:Uroob;-inkscape-font-specification:Uroob;letter-spacing:0.25929168px;word-spacing:0px;fill:#808000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
-       x="120.38541"
-       y="161.00418"
-       id="text839"><tspan
-         sodipodi:role="line"
-         id="tspan837"
-         x="120.38541"
-         y="161.00418"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Uroob;-inkscape-font-specification:Uroob;fill:#808000;stroke-width:0.26458332">Bullions</tspan></text>
+    <g
+       id="g878"
+       transform="matrix(0.39581809,0,0,0.39581809,-28.331732,221.67365)">
+      <text
+         id="text817"
+         y="155.66895"
+         x="74.336723"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;line-height:1.25;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;letter-spacing:0.25929168px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111069px;font-family:Dyuthi;-inkscape-font-specification:Dyuthi;stroke-width:0.26458332"
+           y="155.66895"
+           x="74.336723"
+           id="tspan815"
+           sodipodi:role="line"><tspan
+   id="tspan843"
+   style="fill:#808000">Token</tspan>ized</tspan></text>
+      <text
+         id="text871"
+         y="166.936"
+         x="101.65022"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;line-height:1.25;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.25929168px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#808000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87777805px;font-family:Chilanka;-inkscape-font-specification:'Chilanka, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808000;stroke-width:0.26458332"
+           y="166.936"
+           x="101.65022"
+           id="tspan869"
+           sodipodi:role="line">T</tspan></text>
+    </g>
   </g>
 </svg>
