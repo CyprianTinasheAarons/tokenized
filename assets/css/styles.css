@@ -1,9 +1,8 @@
 .btn-float {
 	position:fixed;
 	bottom:40px;
-	right:40px;
+	margin:0 auto;
     border-radius: 10px !important;
-    margin: 0 auto !important;
- 
 
+	
 }
