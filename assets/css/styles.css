@@ -1,9 +1,27 @@
 .btn-float {
 	position:fixed;
 	bottom:20px;
-	left: 45%;	
+	left: 40%;	
 }
 
+.btn-yellow{
+	background-image: linear-gradient(to right, #F09819 0%, #f9d423 100%);
+
+}
+
+.btn-yellow:hover {
+	background-position: right center !important; 
+}
+
+
+.btn-bluecolor {background-image: linear-gradient(to right, #314755 0%, #26a0da 100%)}
+.btn-bluecolor:hover { background-position: right center; }
+
+.btn-greencolor {background-image: linear-gradient(to right, #134E5E 0%, #71B280 100%)}
+.btn-greencolor:hover { background-position: right center; }
+
+.btn-redcolor {background-image: linear-gradient(to right, #e52d27 0%, #b31217 100%)}
+.btn-redcolor:hover { background-position: right center; }
 
 .home-card-1{
 
