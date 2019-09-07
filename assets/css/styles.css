@@ -1,10 +1,54 @@
 .btn-float {
 	position:fixed;
-	bottom:40px;
-	
-    border-radius: 10px !important;
+	bottom:20px;
+	left: 45%;	
+}
 
+
+.home-card-1{
+
+	border-radius: 10px !important;
+	filter: drop-shadow(5px 5px 2.5px rgba(0, 0, 0, 0.28));
 	
+}
+
+.home-button-1{
+
+	text-transform: uppercase;
+	background-image: linear-gradient(to right, yellow , rgb(255, 255, 220) );
+	filter: drop-shadow(5px 5px 2.5px rgba(0, 0, 0, 0.28));
+	border-radius: 100px;
+	text-decoration: none;
+	padding:10px;
+}
+
+.home-button-2{
+
+	text-transform: uppercase;
+	background-image: linear-gradient(to right, rgba(120, 243, 120, 0.796),rgba(27, 234, 27, 0.707));
+	filter: drop-shadow(5px 5px 2.5px rgba(0, 0, 0, 0.28));
+	border-radius: 100px;
+	text-decoration: none;
+	padding:10px;
+}
+
+.home-footer-1{
+
+	border-radius: 10px !important;
+	filter: drop-shadow(5px 5px 2.5px rgba(0, 0, 0, 0.28));
+
+}
+
+
+.paragragh-1{
+	text-align: start;
+
+}
+
+.span-1{
+	text-align: end;
+
+
 }
 
 

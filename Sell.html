@@ -16,20 +16,30 @@
     <link rel="stylesheet" href="/assets/css/styles.css?h=d41d8cd98f00b204e9800998ecf8427e">
 </head>
 
-<body>
+<body class="bg-warning">
         <nav class="navbar navbar-light navbar-expand-md bg-warning">
-                <div class="container-fluid"><a class="text-dark" href="/home.html"><i class="fa fa-arrow-left"></i></a><a class="navbar-brand" href="#"><strong>Sell<strong></a></div>
+                <div class="container-fluid">
+                  <a class="text-dark" href="/home.html">
+                    <i class="fa fa-arrow-left"></i></a>
+                  <a class="navbar-brand " href="#"><strong>Sell<strong></a></div>
             </nav>
 <br>
+<div class="card p-1 m-2 home-card-1">
+  <div class="card-body">
 
-    <h5 class="text-center">Sell Tokens:</h5>
-    <br>
-    <input class="d-flex justify-content-sm-center" type="text" placeholder="0.00Tokens">
-    <br>
-    <h5 class="text-center">Set Price</h5><input type="text" placeholder="Enter Asking Price $US">
-   
-    <button class="btn btn-primary text-center" type="button">Add to Market</button>
-    <button class="btn btn-primary text-center bg-danger" type="button">Cancel</button>
+      <h5 class="text-center"><strong>Sell Metatokens:</strong></h5>
+      <br>
+       <h5 class="text-center">  <input class="border border-warning text-center p-1"  type="text" placeholder="0.00 Metatokens"></h5>
+      <br>
+      <h5 class="text-center"><strong>Set Price</strong></h5>
+              <h5 class="text-center"><input class="border border-warning text-center p-1"  type="text" placeholder="Enter Asking Price $US"></h5>
+     <br>
+     <h5 class="text-center">
+        <button class="btn btn-primary text-center" type="button"><strong>Add to Market</strong></button>
+      <button class="btn btn-primary text-center bg-danger" type="button"><strong>Cancel</strong></button>
+     </h5>
+  </div>
+</div>
     
     <script src="/assets/js/jquery.min.js?h=83e266cb1712b47c265f77a8f9e18451"></script>
     <script src="/assets/bootstrap/js/bootstrap.min.js?h=63715b63ee49d5fe4844c2ecae071373"></script>
@@ -37,5 +47,4 @@
 
   <script src="assets/app.js"></script>
 </body>
-
 </html>
