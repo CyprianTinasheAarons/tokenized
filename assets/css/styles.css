@@ -43,7 +43,7 @@
 .btn-redcolor {
 	background-image: linear-gradient(to right, #e52d27 0%, #b31217 100%);
 	border: none;
-	filter: drop-shadow(2.5px 2.5px 2.5px #e52d27;
+	filter: drop-shadow(2.5px 2.5px 2.5px #e52d27);
 }
 .btn-redcolor:hover { background-position: right center; }
 
