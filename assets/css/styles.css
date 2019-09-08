@@ -1,3 +1,9 @@
+.bg-warning {
+
+	background-image: linear-gradient(to left, #f7971e 0%, #ffd200 100%);
+
+}
+
 .btn-float {
 	position:fixed;
 	bottom:20px;
@@ -5,7 +11,8 @@
 }
 
 .btn-yellow{
-	background-image: linear-gradient(to right, #F09819 0%, #f9d423 100%);
+	background-image: linear-gradient(to left, #f7971e 0%, #ffd200 100%);
+
 
 }
 
