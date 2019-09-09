@@ -145,3 +145,11 @@
   .slider.round:before {
 	border-radius: 50%;
   }
+
+  .qrcode-text-btn > input[type=file] {
+	position: absolute;
+	overflow: hidden;
+	width: 1px;
+	height: 1px;
+	opacity: 0;
+  }

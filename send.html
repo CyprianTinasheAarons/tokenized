@@ -30,24 +30,29 @@
     <div class="card p-1 m-2 home-card-1">
         <div class="card-body">
                 <h5 class="text-center font-weight-bold">Pay to</h5>
-                <h5 class="text-center">    <input class="text-center p-1 m-1 border  border-top-0 border-right-0 border-left-0 border-warning " type="text" placeholder="type address or name"></h5>
+                <h5 class="text-center">
+                    <input type=text id="qrcode" class="qrcode-text text-center p-1 m-1 border  border-top-0 border-right-0 border-left-0 border-warning "  placeholder="type address or name">
+
+                </h5>
                     <br>
-                 <h5 class="text-center  font-weight-bold">Amount to pay</h5>
+                 <h5 class="text-center font-weight-bold">Amount to pay</h5>
                <h5 class="text-center">  <input class="text-center p-1 m-1 border border-warning  border-top-0 border-right-0 border-left-0" type="text" placeholder="Metatoken 0.00"></h5>
                 <h5 class="text-center"> <input class="text-center p-1 m-1 border border-warning  border-top-0 border-right-0 border-left-0" type="text" placeholder="$0.00"></h5>
                <br>
                 <h5 class="text-center">
-            
                     <button class="btn btn-bluecolor text-white  font-weight-bold" type="button">Send</button>
                     <button class="btn btn-redcolor text-white font-weight-bold" type="button">Cancel</button>
-            
                </h5>
         </div>
     </div>
   
-      
+                              
+ <label  class="btn text-dark btn-yellow btn-float border border-dark qrcode-text-btn">
+        <input type=file accept="image/*" capture=environment onchange="openQRCamera(this);" onclick="return showQRIntro()" ><i><img src="assets/img/icons8-qr-code-50.png" alt="" class="img-fluid"></i></label>
+    
+    <script src="https://rawgit.com/sitepoint-editors/jsqrcode/master/src/qr_packed.js">
+    </script>
 
-    <button class="btn text-dark btn-yellow btn-float border border-dark" type="button"><i> <img src="assets/img/icons8-qr-code-50.png" alt="" class="img-fluid"></i></button>
 
     <script src="/assets/js/jquery.min.js?h=83e266cb1712b47c265f77a8f9e18451"></script>
     <script src="/assets/bootstrap/js/bootstrap.min.js?h=63715b63ee49d5fe4844c2ecae071373"></script>
