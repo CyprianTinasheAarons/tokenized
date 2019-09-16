@@ -1,6 +1,6 @@
 .bg-warning {
 
-	background-image: linear-gradient(to left, #f7971e 0%, #ffd200 100%);
+	background-image: linear-gradient(to left, #dba514 0%, #fcc201 100%);
 
 }
 
@@ -12,11 +12,9 @@
 }
 
 .btn-yellow{
-	background-image: linear-gradient(to left, #f7971e 0%, #ffd200 100%);
+	background-image: linear-gradient(to left, #dba514 0%, #fcc201 100%);
 	border: none;
-	filter: drop-shadow(2.5px 2.5px 2.5px #f7971e );
-
-
+	filter: drop-shadow(2.5px 2.5px 2.5px #dba514 );
 }
 
 .btn-yellow:hover {
