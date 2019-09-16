@@ -30,7 +30,10 @@
 	filter: drop-shadow(2.5px 2.5px 2.5px #26a0da);
 
 }
-.btn-bluecolor:hover { background-position: right center; }
+.btn-bluecolor:hover { 
+	background-position: right center; 
+	
+  }
 
 .btn-greencolor {
 	background-image: linear-gradient(to right, #134E5E 0%, #71B280 100%);
@@ -45,7 +48,9 @@
 	border: none;
 	filter: drop-shadow(2.5px 2.5px 2.5px #e52d27);
 }
-.btn-redcolor:hover { background-position: right center; }
+.btn-redcolor:hover {
+	
+	 background-position: right center; }
 
 .home-card-1{
 
