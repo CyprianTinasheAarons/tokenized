@@ -1,4 +1,8 @@
 
+*{
+	font-family: 'Open Sans Condensed', sans-serif;
+}
+
 .bg-warning {
 
 	background-image: linear-gradient(to left, #eeb609 0%, #fcc201 100%);
